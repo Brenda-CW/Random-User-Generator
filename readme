@@ -1,0 +1,1 @@
+This project creates a random user generator where the user can select to see one, three or five users profiles.  Random profile data is fetched from the Random User Generator API. Data is parsed to a JSON file. User country, name, and profile image are populated on the page.
